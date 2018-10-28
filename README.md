@@ -4,7 +4,7 @@ Socket.io service for multi devices.
 
 ## Redis
 
-### Docker compose
+### Docker compose
 
 To setup the complete environment (Redis) a Docker compose configuration is available.
 
