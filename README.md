@@ -12,6 +12,4 @@ Run `docker-compose up` to start all servers.
 
 See: the [official documentation](https://docs.docker.com/compose/)
 
-### Redis CLI
-
 Run `docker run -it --network md-socketio_default --link md-socketio_redis_1:redis --rm redis redis-cli -h redis -p 6379` to connect to Redis CLI
