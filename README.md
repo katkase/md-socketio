@@ -1,4 +1,4 @@
-# MD API
+# MD socket.io
 
 Socket.io service for multi devices.
 
